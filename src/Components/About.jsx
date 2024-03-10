@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I am a student from University of Caloocan City. ";
+  "I am a student from University of Caloocan City and also a student of Microsoft Student Ambassador ";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -33,8 +33,8 @@ const description =
 const skillsList = [
   "Graphic Design",
   "Web Developer",
-  "Passionate leader",
-  "Focus group testing",
+  "Music Technology",
+  "AI/ML Science",
 ];
 
 /**

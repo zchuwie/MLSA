@@ -32,7 +32,7 @@ const siteProps = {
   linkedIn: "denzchristian",
   medium: "",
   twitter: "",
-  youTube: "@ia.yani_",
+  youTube: "ia.yani_",
 };
 
 const primaryColor = "#4E567E";
